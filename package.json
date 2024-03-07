@@ -1,0 +1,14 @@
+{
+  "name": "asf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-url": "node icons-script/generate-urls.js",
+    "convert-array": "node icons-script/convert-array.js",
+    "rename-images": "node icons-script/rename-images.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

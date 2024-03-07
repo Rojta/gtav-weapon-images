@@ -1,0 +1,656 @@
+[
+  {
+    "web-scraper-order": "1709770863-1",
+    "wid": "weapon_dagger",
+    "hash": "0x92A27487",
+    "image-src": "https:/wiki.rage.mp/images/thumb/f/f5/Antique-cavalry-dagger-icon.png/164px-Antique-cavalry-dagger-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-2",
+    "wid": "weapon_bat",
+    "hash": "0x958A4A8F",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/8b/Baseball-bat-icon.png/164px-Baseball-bat-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-3",
+    "wid": "weapon_bottle",
+    "hash": "0xF9E6AA4B",
+    "image-src": "https:/wiki.rage.mp/images/5/5b/Broken-bottle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-4",
+    "wid": "weapon_crowbar",
+    "hash": "0x84BD7BFD",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/8a/Crowbar-icon.png/164px-Crowbar-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-5",
+    "wid": "weapon_unarmed",
+    "hash": "0xA2719263",
+    "image-src": "https:/wiki.rage.mp/images/b/b7/Fist-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-6",
+    "wid": "weapon_flashlight",
+    "hash": "0x8BB05FD7",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/85/Flashlight-icon.png/164px-Flashlight-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-7",
+    "wid": "weapon_golfclub",
+    "hash": "0x440E4788",
+    "image-src": "https:/wiki.rage.mp/images/thumb/c/cb/Golf-club-icon.png/164px-Golf-club-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-8",
+    "wid": "weapon_hammer",
+    "hash": "0x4E875F73",
+    "image-src": "https:/wiki.rage.mp/images/thumb/e/ec/Hammer-icon.png/164px-Hammer-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-9",
+    "wid": "weapon_hatchet",
+    "hash": "0xF9DCBF2D",
+    "image-src": "https:/wiki.rage.mp/images/thumb/e/eb/Hatchet-icon.png/164px-Hatchet-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-10",
+    "wid": "weapon_knuckle",
+    "hash": "0xD8DF3C3C",
+    "image-src": "https:/wiki.rage.mp/images/b/b7/Knuckles-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-11",
+    "wid": "weapon_knife",
+    "hash": "0x99B507EA",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/8c/Knife-icon.png/164px-Knife-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-12",
+    "wid": "weapon_machete",
+    "hash": "0xDD5DF8D9",
+    "image-src": "https:/wiki.rage.mp/images/thumb/d/dc/Machete-icon.png/164px-Machete-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-13",
+    "wid": "weapon_switchblade",
+    "hash": "0xDFE37640",
+    "image-src": "https:/wiki.rage.mp/images/thumb/c/ce/Switch-blade-icon.png/164px-Switch-blade-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-14",
+    "wid": "weapon_nightstick",
+    "hash": "0x678B81B1",
+    "image-src": "https:/wiki.rage.mp/images/thumb/e/e6/Nightstick-icon.png/164px-Nightstick-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-15",
+    "wid": "weapon_wrench",
+    "hash": "0x19044EE0",
+    "image-src": "https:/wiki.rage.mp/images/thumb/2/22/Pipe-wrench-icon.png/164px-Pipe-wrench-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-16",
+    "wid": "weapon_battleaxe",
+    "hash": "0xCD274149",
+    "image-src": "https:/wiki.rage.mp/images/thumb/3/3b/Battle-axe-icon.png/164px-Battle-axe-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-17",
+    "wid": "weapon_poolcue",
+    "hash": "0x94117305",
+    "image-src": "https:/wiki.rage.mp/images/thumb/3/3a/Pool-cue-icon.png/164px-Pool-cue-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-18",
+    "wid": "weapon_stone_hatchet",
+    "hash": "0x3813FC08",
+    "image-src": "https:/wiki.rage.mp/images/thumb/2/21/Stone-hatchet-icon.png/164px-Stone-hatchet-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-19",
+    "wid": "weapon_candycane",
+    "hash": "0x6589186A",
+    "image-src": "https:/wiki.rage.mp/images/thumb/5/5c/Candy-cane-icon.png/164px-Candy-cane-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-20",
+    "wid": "weapon_pistol",
+    "hash": "0x1B06D571",
+    "image-src": "https:/wiki.rage.mp/images/9/95/Pistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-21",
+    "wid": "weapon_pistol_mk2",
+    "hash": "0xBFE256D4",
+    "image-src": "https:/wiki.rage.mp/images/4/43/Pistol-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-22",
+    "wid": "weapon_combatpistol",
+    "hash": "0x5EF9FEC4",
+    "image-src": "https:/wiki.rage.mp/images/1/16/Combat-pistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-23",
+    "wid": "weapon_appistol",
+    "hash": "0x22D8FE39",
+    "image-src": "https:/wiki.rage.mp/images/4/4d/Appistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-24",
+    "wid": "weapon_stungun",
+    "hash": "0x3656C8C1",
+    "image-src": "https:/wiki.rage.mp/images/3/3c/Stungun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-25",
+    "wid": "weapon_pistol50",
+    "hash": "0x99AEEB3B",
+    "image-src": "https:/wiki.rage.mp/images/c/c5/Pistol.50-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-26",
+    "wid": "weapon_snspistol",
+    "hash": "0xBFD21232",
+    "image-src": "https:/wiki.rage.mp/images/9/96/Sns-pistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-27",
+    "wid": "weapon_snspistol_mk2",
+    "hash": "0x88374054",
+    "image-src": "https:/wiki.rage.mp/images/1/16/Sns-pistol-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-28",
+    "wid": "weapon_heavypistol",
+    "hash": "0xD205520E",
+    "image-src": "https:/wiki.rage.mp/images/7/78/Heavy-pistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-29",
+    "wid": "weapon_vintagepistol",
+    "hash": "0x83839C4",
+    "image-src": "https:/wiki.rage.mp/images/9/97/Vintage-pistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-30",
+    "wid": "weapon_flaregun",
+    "hash": "0x47757124",
+    "image-src": "https:/wiki.rage.mp/images/0/0d/Flaregun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-31",
+    "wid": "weapon_marksmanpistol",
+    "hash": "0xDC4DB296",
+    "image-src": "https:/wiki.rage.mp/images/thumb/4/47/Marksman-pistol-icon.png/164px-Marksman-pistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-32",
+    "wid": "weapon_revolver",
+    "hash": "0xC1B3C3D1",
+    "image-src": "https:/wiki.rage.mp/images/thumb/9/93/Heavy-revolver-icon.png/164px-Heavy-revolver-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-33",
+    "wid": "weapon_revolver_mk2",
+    "hash": "0xCB96392F",
+    "image-src": "https:/wiki.rage.mp/images/thumb/c/c0/Heavy-revolver-mk2-icon.png/164px-Heavy-revolver-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-34",
+    "wid": "weapon_doubleaction",
+    "hash": "0x97EA20B8",
+    "image-src": "https:/wiki.rage.mp/images/thumb/4/45/Double-action-revolver-icon.png/164px-Double-action-revolver-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-35",
+    "wid": "weapon_raypistol",
+    "hash": "0xAF3696A1",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/89/Up-n-atomizer-icon.png/164px-Up-n-atomizer-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-36",
+    "wid": "weapon_ceramicpistol",
+    "hash": "0x2B5EF5EC",
+    "image-src": "https:/wiki.rage.mp/images/a/ad/Ceramic-pistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-37",
+    "wid": "weapon_navyrevolver",
+    "hash": "0x917F6C8C",
+    "image-src": "https:/wiki.rage.mp/images/thumb/1/15/Navy-revolver-icon.png/164px-Navy-revolver-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-38",
+    "wid": "weapon_gadgetpistol",
+    "hash": "0x57A4368C",
+    "image-src": "https:/wiki.rage.mp/images/thumb/3/31/Perico-pistol-icon.png/164px-Perico-pistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-39",
+    "wid": "weapon_stungun_mp",
+    "hash": "0x45CD9CF3",
+    "image-src": "https:/wiki.rage.mp/images/3/3c/Stungun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-40",
+    "wid": "weapon_pistolxm3",
+    "hash": "0x1BC4FDB9",
+    "image-src": "https:/wiki.rage.mp/images/c/cf/WM-29-pistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-41",
+    "wid": "weapon_microsmg",
+    "hash": "0x13532244",
+    "image-src": "https:/wiki.rage.mp/images/thumb/3/3a/Micro-smg-icon.png/164px-Micro-smg-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-42",
+    "wid": "weapon_smg",
+    "hash": "0x2BE6766B",
+    "image-src": "https:/wiki.rage.mp/images/thumb/3/30/Smg-icon.png/164px-Smg-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-43",
+    "wid": "weapon_smg_mk2",
+    "hash": "0x78A97CD0",
+    "image-src": "https:/wiki.rage.mp/images/thumb/d/d1/Smg-mk2-icon.png/164px-Smg-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-44",
+    "wid": "weapon_assaultsmg",
+    "hash": "0xEFE7E2DF",
+    "image-src": "https:/wiki.rage.mp/images/thumb/3/30/Assault-smg-icon.png/164px-Assault-smg-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-45",
+    "wid": "weapon_combatpdw",
+    "hash": "0x0A3D4D34",
+    "image-src": "https:/wiki.rage.mp/images/thumb/4/45/Combat-pdw-icon.png/164px-Combat-pdw-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-46",
+    "wid": "weapon_machinepistol",
+    "hash": "0xDB1AA450",
+    "image-src": "https:/wiki.rage.mp/images/thumb/2/24/Machine-pistol-icon.png/164px-Machine-pistol-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-47",
+    "wid": "weapon_minismg",
+    "hash": "0xBD248B55",
+    "image-src": "https:/wiki.rage.mp/images/thumb/d/d3/Mini-smg-icon.png/164px-Mini-smg-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-48",
+    "wid": "weapon_raycarbine",
+    "hash": "0x476BF155",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/8f/Unholy-hellbringer-icon.png/164px-Unholy-hellbringer-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-49",
+    "wid": "weapon_tecpistol",
+    "hash": "0x14E5AFD5",
+    "image-src": "https:/wiki.rage.mp/images/b/bc/Tactical-smg-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-50",
+    "wid": "weapon_pumpshotgun",
+    "hash": "0x1D073A89",
+    "image-src": "https:/wiki.rage.mp/images/thumb/0/09/Pump-shotgun-icon.png/164px-Pump-shotgun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-51",
+    "wid": "weapon_pumpshotgun_mk2",
+    "hash": "0x555AF99A",
+    "image-src": "https:/wiki.rage.mp/images/thumb/6/69/Pump-shotgun-mk2-icon.png/164px-Pump-shotgun-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-52",
+    "wid": "weapon_sawnoffshotgun",
+    "hash": "0x7846A318",
+    "image-src": "https:/wiki.rage.mp/images/thumb/b/ba/Sawed-off-shotgun-icon.png/164px-Sawed-off-shotgun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-53",
+    "wid": "weapon_assaultshotgun",
+    "hash": "0xE284C527",
+    "image-src": "https:/wiki.rage.mp/images/thumb/e/e3/Assault-shotgun-icon.png/164px-Assault-shotgun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-54",
+    "wid": "weapon_bullpupshotgun",
+    "hash": "0x9D61E50F",
+    "image-src": "https:/wiki.rage.mp/images/thumb/7/7f/Bullpup-shotgun-icon.png/164px-Bullpup-shotgun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-55",
+    "wid": "weapon_musket",
+    "hash": "0xA89CB99E",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/8c/Musket-icon.png/164px-Musket-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-56",
+    "wid": "weapon_heavyshotgun",
+    "hash": "0x3AABBBAA",
+    "image-src": "https:/wiki.rage.mp/images/thumb/5/5d/Heavy-shotgun-icon.png/164px-Heavy-shotgun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-57",
+    "wid": "weapon_dbshotgun",
+    "hash": "0xEF951FBB",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/8d/Double-barrel-shotgun-icon.png/164px-Double-barrel-shotgun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-58",
+    "wid": "weapon_autoshotgun",
+    "hash": "0x12E82D3D",
+    "image-src": "https:/wiki.rage.mp/images/thumb/a/a8/Sweeper-shotgun-icon.png/164px-Sweeper-shotgun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-59",
+    "wid": "weapon_combatshotgun",
+    "hash": "0x5A96BA4",
+    "image-src": "https:/wiki.rage.mp/images/thumb/5/50/Combat-shotgun-icon.png/164px-Combat-shotgun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-60",
+    "wid": "weapon_assaultrifle",
+    "hash": "0xBFEFFF6D",
+    "image-src": "https:/wiki.rage.mp/images/thumb/6/61/Assault-rifle-icon.png/164px-Assault-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-61",
+    "wid": "weapon_assaultrifle_mk2",
+    "hash": "0x394F415C",
+    "image-src": "https:/wiki.rage.mp/images/thumb/6/63/Assault-rifle-mk2-icon.png/164px-Assault-rifle-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-62",
+    "wid": "weapon_carbinerifle",
+    "hash": "0x83BF0278",
+    "image-src": "https:/wiki.rage.mp/images/thumb/7/73/Carbine-rifle-icon.png/164px-Carbine-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-63",
+    "wid": "weapon_carbinerifle_mk2",
+    "hash": "0xFAD1F1C9",
+    "image-src": "https:/wiki.rage.mp/images/thumb/3/3f/Carbine-rifle-mk2-icon.png/164px-Carbine-rifle-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-64",
+    "wid": "weapon_advancedrifle",
+    "hash": "0xAF113F99",
+    "image-src": "https:/wiki.rage.mp/images/thumb/a/ae/Advanced-rifle-icon.png/164px-Advanced-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-65",
+    "wid": "weapon_specialcarbine",
+    "hash": "0xC0A3098D",
+    "image-src": "https:/wiki.rage.mp/images/thumb/b/b7/Special-carbine-icon.png/164px-Special-carbine-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-66",
+    "wid": "weapon_specialcarbine_mk2",
+    "hash": "0x969C3D67",
+    "image-src": "https:/wiki.rage.mp/images/thumb/3/34/Special-carbine-mk2-icon.png/164px-Special-carbine-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-67",
+    "wid": "weapon_bullpuprifle",
+    "hash": "0x7F229F94",
+    "image-src": "https:/wiki.rage.mp/images/thumb/0/09/Bullpup-rifle-icon.png/164px-Bullpup-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-68",
+    "wid": "weapon_bullpuprifle_mk2",
+    "hash": "0x84D6FAFD",
+    "image-src": "https:/wiki.rage.mp/images/thumb/e/e1/Bullpup-rifle-mk2-icon.png/164px-Bullpup-rifle-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-69",
+    "wid": "weapon_compactrifle",
+    "hash": "0x624FE830",
+    "image-src": "https:/wiki.rage.mp/images/thumb/c/c9/Compact-rifle-icon.png/164px-Compact-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-70",
+    "wid": "weapon_militaryrifle",
+    "hash": "0x9D1F17E6",
+    "image-src": "https:/wiki.rage.mp/images/thumb/0/01/Military-rifle-icon.png/164px-Military-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-71",
+    "wid": "weapon_heavyrifle",
+    "hash": "0xC78D71B4",
+    "image-src": "https:/wiki.rage.mp/images/thumb/2/20/Heavy-rifle-icon.png/164px-Heavy-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-72",
+    "wid": "weapon_tacticalrifle",
+    "hash": "0xD1D5F52B",
+    "image-src": "https:/wiki.rage.mp/images/thumb/e/e8/Tactical-rifle-icon.png/164px-Tactical-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-73",
+    "wid": "weapon_mg",
+    "hash": "0x9D07F764",
+    "image-src": "https:/wiki.rage.mp/images/thumb/9/98/Mg-icon.png/164px-Mg-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-74",
+    "wid": "weapon_combatmg",
+    "hash": "0x7FD62962",
+    "image-src": "https:/wiki.rage.mp/images/thumb/9/94/Combat-mg-icon.png/164px-Combat-mg-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-75",
+    "wid": "weapon_combatmg_mk2",
+    "hash": "0xDBBD7280",
+    "image-src": "https:/wiki.rage.mp/images/thumb/3/31/Combat-mg-mk2-icon.png/164px-Combat-mg-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-76",
+    "wid": "weapon_gusenberg",
+    "hash": "0x61012683",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/8f/Gusenberg-sweeper-icon.png/164px-Gusenberg-sweeper-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-77",
+    "wid": "weapon_sniperrifle",
+    "hash": "0x05FC3C11",
+    "image-src": "https:/wiki.rage.mp/images/thumb/e/ec/Sniper-rifle-icon.png/164px-Sniper-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-78",
+    "wid": "weapon_heavysniper",
+    "hash": "0x0C472FE2",
+    "image-src": "https:/wiki.rage.mp/images/thumb/5/54/Heavy-sniper-icon.png/164px-Heavy-sniper-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-79",
+    "wid": "weapon_heavysniper_mk2",
+    "hash": "0xA914799",
+    "image-src": "https:/wiki.rage.mp/images/thumb/c/cf/Heavy-sniper-mk2-icon.png/164px-Heavy-sniper-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-80",
+    "wid": "weapon_marksmanrifle",
+    "hash": "0xC734385A",
+    "image-src": "https:/wiki.rage.mp/images/thumb/2/22/Marksman-rifle-icon.png/164px-Marksman-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-81",
+    "wid": "weapon_marksmanrifle_mk2",
+    "hash": "0x6A6C02E0",
+    "image-src": "https:/wiki.rage.mp/images/thumb/1/17/Marksman-rifle-mk2-icon.png/164px-Marksman-rifle-mk2-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-82",
+    "wid": "weapon_precisionrifle",
+    "hash": "0x6E7DDDEC",
+    "image-src": "https:/wiki.rage.mp/images/thumb/5/5b/Precision-rifle-icon.png/164px-Precision-rifle-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-83",
+    "wid": "weapon_rpg",
+    "hash": "0xB1CA77B1",
+    "image-src": "https:/wiki.rage.mp/images/thumb/7/7d/Rocket-launcher-icon.png/164px-Rocket-launcher-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-84",
+    "wid": "weapon_grenadelauncher",
+    "hash": "0xA284510B",
+    "image-src": "https:/wiki.rage.mp/images/thumb/a/ae/Grenade-launcher-icon.png/164px-Grenade-launcher-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-85",
+    "wid": "weapon_grenadelauncher_smoke",
+    "hash": "0x4DD2DC56",
+    "image-src": "https:/wiki.rage.mp/images/thumb/a/ae/Grenade-launcher-icon.png/164px-Grenade-launcher-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-86",
+    "wid": "weapon_minigun",
+    "hash": "0x42BF8A85",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/8b/Minigun-icon.png/164px-Minigun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-87",
+    "wid": "weapon_firework",
+    "hash": "0x7F7497E5",
+    "image-src": "https:/wiki.rage.mp/images/thumb/5/54/Firework-launcher-icon.png/164px-Firework-launcher-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-88",
+    "wid": "weapon_railgun",
+    "hash": "0x6D544C99",
+    "image-src": "https:/wiki.rage.mp/images/thumb/a/ad/Railgun-icon.png/164px-Railgun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-89",
+    "wid": "weapon_hominglauncher",
+    "hash": "0x63AB0442",
+    "image-src": "https:/wiki.rage.mp/images/thumb/1/14/Homing-launcher-icon.png/164px-Homing-launcher-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-90",
+    "wid": "weapon_compactlauncher",
+    "hash": "0x0781FE4A",
+    "image-src": "https:/wiki.rage.mp/images/thumb/0/0d/Grenade-compact-launcher-icon.png/164px-Grenade-compact-launcher-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-91",
+    "wid": "weapon_rayminigun",
+    "hash": "0xB62D1F67",
+    "image-src": "https:/wiki.rage.mp/images/thumb/e/ec/Widowmaker-icon.png/164px-Widowmaker-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-92",
+    "wid": "weapon_emplauncher",
+    "hash": "0xDB26713A",
+    "image-src": "https:/wiki.rage.mp/images/thumb/e/ed/EMP-launcher-icon.png/164px-EMP-launcher-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-93",
+    "wid": "weapon_railgunxm3",
+    "hash": "0xFEA23564",
+    "image-src": "https:/wiki.rage.mp/images/thumb/a/ad/Railgun-icon.png/164px-Railgun-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-94",
+    "wid": "weapon_grenade",
+    "hash": "0x93E220BD",
+    "image-src": "https:/wiki.rage.mp/images/5/54/Grenade-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-95",
+    "wid": "weapon_bzgas",
+    "hash": "0xA0973D5E",
+    "image-src": "https:/wiki.rage.mp/images/thumb/d/d3/Bz-gas-icon.png/56px-Bz-gas-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-96",
+    "wid": "weapon_molotov",
+    "hash": "0x24B17070",
+    "image-src": "https:/wiki.rage.mp/images/thumb/4/46/Molotov-icon.png/120px-Molotov-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-97",
+    "wid": "weapon_stickybomb",
+    "hash": "0x2C3731D9",
+    "image-src": "https:/wiki.rage.mp/images/3/3a/Sticky-bomb-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-98",
+    "wid": "weapon_proxmine",
+    "hash": "0xAB564B93",
+    "image-src": "https:/wiki.rage.mp/images/a/a8/Proximity-mines-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-99",
+    "wid": "weapon_snowball",
+    "hash": "0x787F0BB",
+    "image-src": "https:/wiki.rage.mp/images/0/04/Snowball-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-100",
+    "wid": "weapon_pipebomb",
+    "hash": "0xBA45E8B8",
+    "image-src": "https:/wiki.rage.mp/images/thumb/d/dc/Pipe-bomb-icon.png/164px-Pipe-bomb-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-101",
+    "wid": "weapon_ball",
+    "hash": "0x23C9F95C",
+    "image-src": "https:/wiki.rage.mp/images/4/4b/Ball-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-102",
+    "wid": "weapon_smokegrenade",
+    "hash": "0xFDBC8A50",
+    "image-src": "https:/wiki.rage.mp/images/thumb/8/8a/Tear-gas-icon.png/56px-Tear-gas-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-103",
+    "wid": "weapon_flare",
+    "hash": "0x497FACC3",
+    "image-src": "https:/wiki.rage.mp/images/0/09/Flare-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-104",
+    "wid": "weapon_acidpackage",
+    "hash": "0xF7F1E25E",
+    "image-src": "https:/wiki.rage.mp/images/thumb/0/01/Acid-package-icon.png/164px-Acid-package-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-105",
+    "wid": "weapon_petrolcan",
+    "hash": "0x34A67B97",
+    "image-src": "https:/wiki.rage.mp/images/thumb/2/2b/Petrolcan-icon.png/94px-Petrolcan-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-106",
+    "wid": "gadget_parachute",
+    "hash": "0xFBAB5776",
+    "image-src": "https:/wiki.rage.mp/images/thumb/2/24/Parachute-icon.png/93px-Parachute-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-107",
+    "wid": "weapon_fireextinguisher",
+    "hash": "0x060EC506",
+    "image-src": "https:/wiki.rage.mp/images/thumb/1/13/Fire2.png/51px-Fire2.png"
+  },
+  {
+    "web-scraper-order": "1709770863-108",
+    "wid": "weapon_hazardcan",
+    "hash": "0xBA536372",
+    "image-src": "https:/wiki.rage.mp/images/thumb/2/2b/Petrolcan-icon.png/94px-Petrolcan-icon.png"
+  },
+  {
+    "web-scraper-order": "1709770863-109",
+    "wid": "weapon_fertilizercan",
+    "hash": "0x184140A1",
+    "image-src": "https:/wiki.rage.mp/images/thumb/2/2b/Petrolcan-icon.png/94px-Petrolcan-icon.png"
+  }
+]
